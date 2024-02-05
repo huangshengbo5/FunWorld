@@ -1,0 +1,1 @@
+{"$type":"ConfigJsonContainer, Assembly-CSharp","dataList":[],"dataMap":{"$type":"System.Collections.Generic.Dictionary`2[[System.Int32, mscorlib],[ConfigJsonBase, Assembly-CSharp]], mscorlib","1":{"$type":"Config.JsonConfig.CfgTest, Assembly-CSharp","B":"12341","C":[1,2,3],"E":["123","\"ba\"sd\"","dfs"],"e":7.0,"ID":1}},"typeName":"CfgTest","test":[0.0,0.0,0.0]}
